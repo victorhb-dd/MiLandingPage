@@ -1,0 +1,21 @@
+#jumbotron-landing {
+    background: #745234;
+    background-image: url('../img/dog.jpg');
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#button-cta, #input-cta {
+    height: 75px;
+    font-size: 20px;
+}
+
+#modal-landing {
+    color: black;
+}
+
+#footer-lp {
+    background-color: #333; 
+    color: white;
+    margin-top: 10px;
+}
