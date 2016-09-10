@@ -2,6 +2,7 @@
     background: #745234;
     background-image: url('../img/dog.jpg');
     background-repeat: no-repeat;
+    background-size: cover; /* Le indicamos que el background ocupe todo el espacio disponible */
     color: white;
 }
 
